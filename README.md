@@ -1,12 +1,14 @@
 <img src="images/seraphbanner.jpg">
+<h1> SERAPH REMAKE HAS MOVED! -> https://github.com/OnForever-Development/seraphremake </h1>
+<h2> The admin panels DO NOT work on this, you will have to integrate it within your own version! </h2>
   <p align="center">
     seraph; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
     <br/>
     <a href="https://seraph.reveriestudios.online/">view demo</a>
     ·
-    <a href="https://github.com/a456pur/seraph/issues/new/choose">report issues / request feature</a>
+    <a href="https://github.com/noahgonzales38/seraphremake/issues/new/choose">report issues / request feature  </a>
     ·
-    <a href="https://discord.gg/ZyZDmx3zuQ">discord</a>
+    <a href="https://discord.gg/ZyZDmx3zuQ">discord (original seraph) </a>
     <br>
     <br>
     <img src="https://img.shields.io/github/repo-size/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
@@ -54,13 +56,6 @@ seraph is completely open source which allows you to inspect any element of the 
 although i dont mind not being credited, please don't just do something as simple as changing the name of the site then replacing any mentions of my name. it's an extremely scummy thing to do, especially if you claim the site as your own creation when there's a lot of effort put in behind the scenes!!
 
 tldr; take anything game/app you want without credit!! add/modify seraph if you want, however don't replace my credit on the actual site if you can
-
-## contributing
-you can contribute to seraph in multiple ways by [raising issues on the github](https://github.com/a456pur/seraph/issues/new/choose), which can include:
-- **game suggestions:** suggest games to be added to seraph! provide a link if possible to the game to make it easier to add
-- **website suggestions:** suggest features to be added to the website
-- **website bugs:** report bugs you are experiencing with the website (not inside a game), providing some simple steps on how to replicate the bug
-- **game bugs:** report bugs that are happening during gameplay of a particular game
 
 
 
